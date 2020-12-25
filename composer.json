@@ -1,0 +1,19 @@
+{
+    "name": "masterdmx/laravel-breadcrumbs",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sergey Krening",
+            "email": "masterdmx3325@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "MasterDmx\\LaravelBreadcrumbs\\": "src/"
+        }
+    },
+    "version": "1.0.0",
+    "require": {}
+}
